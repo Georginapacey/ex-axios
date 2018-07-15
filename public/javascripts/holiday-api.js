@@ -1,4 +1,5 @@
-const API_URL = 'https://www.jetro.ovh';
+//add real url here
+const API_URL = '';
 
 class holidayApi {
 
